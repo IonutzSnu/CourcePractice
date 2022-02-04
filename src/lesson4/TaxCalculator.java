@@ -1,4 +1,4 @@
-package homelesson4;
+package lesson4;
 
 public class TaxCalculator {
     public static void main(String[] args) {

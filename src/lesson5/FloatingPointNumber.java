@@ -1,4 +1,4 @@
-package homelesson5;
+package lesson5;
 
 import java.util.Scanner;
 
@@ -12,7 +12,6 @@ public class FloatingPointNumber {
 
         if(num>0) {
             System.out.println("Numar pozitiv");
-
         }
         else if(num<0){
             System.out.println("Numar negativ");
