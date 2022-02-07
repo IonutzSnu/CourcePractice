@@ -28,7 +28,7 @@ public class AreaOfRectangle {
             System.out.println("Al doilea dreptunghi are aria mai mare decit la primul!");
             
         } else if (area1 == area2) {
-            System.out.println("Ariile dreptunghiurilor sunt egale!");
+            System.out.println("Ariile dreptunghiurilor sunt egale)!");
         }
     }
 }
