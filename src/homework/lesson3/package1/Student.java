@@ -1,6 +1,6 @@
-package home3.hello.java.world.package2;
+package homework.lesson3.package1;
 
-public class Person {
+public class Student {
     String numele;
     String prenumele;
     String idnp;

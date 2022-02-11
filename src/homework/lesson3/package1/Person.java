@@ -1,4 +1,4 @@
-package home3.hello.java.world.package1;
+package homework.lesson3.package1;
 
 
 public class Person {

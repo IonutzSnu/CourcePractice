@@ -1,4 +1,4 @@
-package home3.hello.java.world;
+package homework.lesson3;
 
 public class Javaclass {
     public static void main(String[] args) {
