@@ -19,17 +19,7 @@ public class Employee {
         return name;
     }
 
-    public String setName() {
-        String name = null;
-        return name;
-    }
-
     public String getAddress() {
-        String address = null;
-        return address;
-    }
-
-    public String setAddress() {
         String address = null;
         return address;
     }
@@ -39,21 +29,11 @@ public class Employee {
         return Sal;
     }
 
-    public String setSalary() {
-        String Sal = null;
-        return Sal;
-    }
-
     public String getYearofjoining() {
         String Yr = null;
         return Yr;
     }
 
-    public String setYearofjoining() {
-        String Yr = null;
-        return Yr;
-    }
-    
 
         public static void main(String[] args) {
             Employee[] arr = new Employee[3];
