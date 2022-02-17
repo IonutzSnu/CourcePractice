@@ -8,7 +8,7 @@ public class DisplayElements {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the size of the array: ");
         n = sc.nextInt();
-        int[] array = new int[10];
+        int[] array = new int[n];
         System.out.println("Enter the elements of the array: ");
         for (int i = 0; i < n; i++) {
             array[i] = sc.nextInt();

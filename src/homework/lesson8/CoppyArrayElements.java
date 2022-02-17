@@ -2,7 +2,7 @@ package homework.lesson8;
 
 public class CoppyArrayElements {
     public static void main(String[] args) {
-        int[] arr1 = {7, 9, 7, 5, 7, 2};
+        int[] arr1 = {7, 9, 7, 5, 9, 2};
         int[] arr2 = new int[arr1.length];
 
         for (int i = 0; i < arr1.length; i++)

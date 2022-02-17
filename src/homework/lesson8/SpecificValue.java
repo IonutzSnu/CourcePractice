@@ -2,7 +2,7 @@ package homework.lesson8;
 
 public class SpecificValue{
     public static void main(String[] args) {
-        int[] num = {56, 87, 3, 457, 576};
+        int[] num = {5, 87, 3, 457, 576};
         int toFind = 56;
         boolean found = false;
 
