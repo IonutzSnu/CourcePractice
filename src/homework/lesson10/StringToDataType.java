@@ -1,14 +1,14 @@
 package homework.lesson10;
 
-public class ConvertStringToDataType {
+public class StringToDataType {
     public static void main(String[] args) {
 
-        Boolean b = Boolean.TRUE;
+        Boolean b = new Boolean("tRue");
         boolean b1 = b;
         System.out.println("Value of b:" + b);
-        System.out.println("Value of i1: " + b1);
+        System.out.println("Value of b1: " + b1);
 
-        Byte bt = new Byte((byte) 120);
+        Byte bt = new Byte("120");
         byte bt1 = bt;
         System.out.println("Value of bt: " + bt);
         System.out.println("Value of bt1: " + bt1);
